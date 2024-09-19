@@ -31,3 +31,5 @@ O Git Bash é um terminal estendido para otimizar o uso do Git.
 - git commit -m "INSIRA AQUI O QUE FOI FEITO DE ALTERAÇÃO/COMENTARIOS)
 - git status
 - git push origin main
+
+#### Para modificações feitas no Git Hub, para que seja reconhecido no PC/Bash, é preciso dar um "git pull" dentro do git bash
