@@ -1,7 +1,10 @@
-Link Para Download
-https://central.github.com/deployments/desktop/desktop/latest/win32
+Link Para Download: https://central.github.com/deployments/desktop/desktop/latest/win32
 
-O Git Bash é um terminal extendido para otimizar o uso do Git.
+O Git Bash é um terminal estendido para otimizar o uso do Git.
+
+
+
+## Comandos Básicos
 
 control + L = limpar tela
 mkdir = criar diretório (pasta) dentro do local
@@ -16,3 +19,15 @@ mv + nome + ./ pasta = mover arquivo para X pasta
 echo > (nome.extensão, por exemplo README.md) = criar arquivo
 git status = mostra a situação do arquivo, modificações feitas etc
 ls -a = mostra arquivos ocultos
+
+
+
+## Passo a passo para mandar arquivos do PC > Git
+
+- Faça as modificações necessárias (alterar arquivos, editar, criar novos textos etc)
+- git status (para verificar se ele reconheceu que houveram mudanças
+- git add .
+- git status
+- git commit -m "INSIRA AQUI O QUE FOI FEITO DE ALTERAÇÃO/COMENTARIOS)
+- git status
+- git push origin main
