@@ -25,7 +25,7 @@ O Git Bash é um terminal estendido para otimizar o uso do Git.
 ## Passo a passo para mandar arquivos do PC > Git
 
 - Faça as modificações necessárias (alterar arquivos, editar, criar novos textos etc)
-- git status (para verificar se ele reconheceu que houveram mudanças
+- git status (para verificar se ele reconheceu que houveram mudanças)
 - git add .
 - git status
 - git commit -m "INSIRA AQUI O QUE FOI FEITO DE ALTERAÇÃO/COMENTARIOS"
