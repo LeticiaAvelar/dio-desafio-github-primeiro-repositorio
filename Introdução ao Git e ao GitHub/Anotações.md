@@ -28,7 +28,7 @@ O Git Bash é um terminal estendido para otimizar o uso do Git.
 - git status (para verificar se ele reconheceu que houveram mudanças
 - git add .
 - git status
-- git commit -m "INSIRA AQUI O QUE FOI FEITO DE ALTERAÇÃO/COMENTARIOS)"
+- git commit -m "INSIRA AQUI O QUE FOI FEITO DE ALTERAÇÃO/COMENTARIOS"
 - git status
 - git push origin main
 
