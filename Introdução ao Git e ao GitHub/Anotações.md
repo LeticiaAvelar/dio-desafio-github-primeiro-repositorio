@@ -8,6 +8,7 @@ O Git Bash é um terminal estendido para otimizar o uso do GitHub.
 
 - control + L = limpar tela
 - mkdir = criar diretório (pasta) dentro do local
+- rm -d + nome do diretório = vai remover a pasta *(importante colocar o nome da pasta, para que ele entenda que não é apenas um arquivo)*
 - ls = listar o que tem dentro da pasta
 - cd + *algo* = ir para pasta *x* *(exemplo: cd c/users/letic/)*
 - cd .. = retroceder um nível *(voltar para a pasta anterior)*
