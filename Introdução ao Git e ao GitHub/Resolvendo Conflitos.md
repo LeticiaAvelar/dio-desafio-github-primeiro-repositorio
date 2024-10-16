@@ -31,7 +31,7 @@ Também deve-se limpar a chave de commit que aparece (com letras e números). O 
 Ao fazer isso, você está indicando ao git que deseja fazer a inclusão dessas alterações no próximo commit.
 
 - Faça o commit para registrar a alteração com o comando **GIT COMMIT -M "escreva qual foi o tipo de alteração feita"**
-- Por fim, envie as alterações para o repositório remoto no GitHub utilizando o comando **GIT PUSH ORIGIN MASTER** _(ou conforme sua branch)_.
+- Por fim, envie as alterações para o repositório remoto no GitHub utilizando o comando **GIT PUSH ORIGIN MASTER** _(ou conforme sua branch)_
 
 
 
